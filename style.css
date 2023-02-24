@@ -81,8 +81,8 @@ body {
 
 .container a span:nth-child(2),
 .container a span:nth-child(4) {
-    width: 40px;
-    height: 4px;
+    width: 4px;
+    height: 40px;
 }
 
 .container a span:nth-child(1) {
